@@ -2,7 +2,7 @@ var saveBtn = document.getElementById("save-btn");
 saveBtn.addEventListener("click", function () {
   // Get the contact information from the website
   var contact = {
-    name: "Ivan Oosthuizen",
+    name: "Ivan Oosthuizen (Insurance)",
     phone: "+27-68-462-2849",
     email: "info@merchantbrokers.co.za"
   };
